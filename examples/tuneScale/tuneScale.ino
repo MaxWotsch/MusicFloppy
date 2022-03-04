@@ -8,7 +8,7 @@
  * driveselectPin   = IDE pin 12
  * directionPin     = IDE pin 18
  * stepPin          = IDE pin 20
- * make shure that the used drive and the µC have a Ground connection
+ * make sure that the used drive and the µC have a Ground connection
  */
 MusicFloppy myDrive(2, 3, 4);
 
